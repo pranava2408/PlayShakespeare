@@ -28,7 +28,7 @@ Whether you're brushing up for competitive exams, improving your vocabulary, or 
 - **Frontend**: React / HTML / CSS / JavaScript
 - **Backend**: Node.js / Express.js
 - **Real-time Communication**: Socket.IO
-- **Database**: MongoDB / Firebase / PostgreSQL *(choose whichever applies)*
-- **Authentication**: JWT / Firebase Auth *(if applicable)*
+- **Database**: MongoDB
+
 
 
